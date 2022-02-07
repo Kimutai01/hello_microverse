@@ -4,7 +4,7 @@
 
 > A project to create to learn about linters.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./hello.png)
 
 Additional description about the project and its features.
 
